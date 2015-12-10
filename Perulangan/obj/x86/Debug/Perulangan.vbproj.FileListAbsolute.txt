@@ -1,0 +1,25 @@
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.exe
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.pdb
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.xml
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Form1.resources
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Resources.resources
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.exe
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.xml
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.pdb
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Bintang.resources
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Matriks.resources
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.exe
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.xml
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.pdb
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.exe
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.pdb
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.xml
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Form1.resources
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Bintang.resources
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Matriks.resources
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Resources.resources
+G:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.vbproj.GenerateResource.Cache
+D:\.TUGAS KULIAH\Semester 3\GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.exe
+D:\.TUGAS KULIAH\Semester 3\GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.xml
+D:\.TUGAS KULIAH\Semester 3\GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.pdb
